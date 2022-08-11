@@ -1,5 +1,5 @@
 # AES-Encryption-Module
-This AES general purpose encryption module can encrypt 128-bit plaintexts with 128-bit keys. Written in verilog, featuring ready-valid interface to encrypt key and plaintext pairs.
+This AES general purpose encryption module can encrypt 128-bit plaintexts with 128-bit keys. Written in verilog, using the ready-valid interface for ease of use.
 
 ## Features
 - 4 sbox design using lookup tables
